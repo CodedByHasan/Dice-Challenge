@@ -7,5 +7,5 @@ var image2 = document.querySelectorAll("img")[1];
 var randomDiceImage1 = `images/dice${randomNumber1}.png`;
 var randomDiceImage2 = `images/dice${randomNumber2}.png`;
 
-image1.setAttribute('src', randomDiceImage1);
-image2.setAttribute('src', randomDiceImage2);
+image1.setAttribute("src", randomDiceImage1);
+image2.setAttribute("src", randomDiceImage2);
